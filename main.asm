@@ -102,6 +102,9 @@ section .text                               ;Main code
         mov rax, 12342
         PUSH rax
         call pnum
+        mov    eax, 60                      ;System exit code
+        mov    rdi, 0                       ;Success code
+        syscall                             ;Exit program
 
 section .data                               ;Data for use in program
 

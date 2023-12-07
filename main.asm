@@ -1,5 +1,5 @@
 ;*******************************************************
-; PROGRAM NAME - Lab 0010 - Simple Algorithms
+; PROGRAM NAME - Tic Tac Toe
 ;
 ; PROGRAMMER - David Weir
 ;
@@ -8,12 +8,11 @@
 ;
 ; SYSTEM - Replit
 ;
-; DATE - Started Jan. 12, 2023
+; DATE - Started Dec. 7, 2023
 ;
 ; ISSUES - Don't use negative values when inputting numbers. No inputting numbers larger than 19 digits
 ;
-; DESCRIPTION - Simple mathematic algorithms including 
-;               factoring, GCD, exponents, finding 
-;               digits, printing digits, and counting 
-;               digits.
+; DESCRIPTION - Two player Tic Tac Toe
 ; *******************************************************
+
+
